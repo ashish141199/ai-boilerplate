@@ -11,7 +11,7 @@ export default function Home() {
       <ThemeToggle />
       <main className="flex flex-col items-center gap-8 text-center">
         <Image
-          src="/kulp.png"
+          src="/kulp.svg"
           alt="Kulp logo"
           width={400}
           height={100}
